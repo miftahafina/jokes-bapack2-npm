@@ -12,6 +12,11 @@
     "jokes",
     "fun"
   ],
+  "homepage": "https://miftahafina.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miftahafina/jokes-bapack2-npm"
+  },
   "author": "Miftah Afina",
   "license": "MIT",
   "type": "module",

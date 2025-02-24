@@ -34,4 +34,5 @@ This library contains jokes copied manually from the [jokes-bapack2-api](https:/
 
 
 ## Links
-[NPM jokes-bapack2](https://www.npmjs.com/package/jokes-bapack2)
+- [NPM Package](https://www.npmjs.com/package/jokes-bapack2)
+- [GitHub Repository](https://github.com/miftahafina/jokes-bapack2-npm)
