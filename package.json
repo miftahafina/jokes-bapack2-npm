@@ -1,0 +1,19 @@
+{
+  "name": "jokes-bapack2",
+  "version": "1.0.2",
+  "description": "Random dad jokes that will cheer you up.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jokes",
+    "dad",
+    "jokes",
+    "fun"
+  ],
+  "author": "Miftah Afina",
+  "license": "MIT",
+  "type": "module",
+  "exports": "./index.js"
+}
